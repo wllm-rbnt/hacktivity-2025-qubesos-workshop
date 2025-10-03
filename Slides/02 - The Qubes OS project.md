@@ -27,3 +27,11 @@
 - `qubes-gui`(running in AppVM) and `qubes-guid` (running on GuiVM, dom0 by default) processes
 - no network access for dom0
 	- same goes for TemplateVMs, Vault VM, sys-usb VM
+---
+-  General organization depends on you
+    - [https://doc.qubes-os.org/en/latest/user/how-to-guides/how-to-organize-your-qubes.html](https://doc.qubes-os.org/en/latest/user/how-to-guides/how-to-organize-your-qubes.html)
+- There is a of room for human error
+## Some fresh news
+- QubesOS summit 2025 - Berlin - last week
+    - Day #1 [https://www.youtube.com/watch?v=HwisqKFEQ0g](https://www.youtube.com/watch?v=HwisqKFEQ0g)
+    - Day #2 [https://www.youtube.com/watch?v=F9eRaa1w4KM](https://www.youtube.com/watch?v=F9eRaa1w4KM)
